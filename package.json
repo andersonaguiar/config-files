@@ -1,9 +1,12 @@
 {
   "name": "xxx",
   "version": "0.0.0",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
+    "gulp": "*",
+    "nib": "*",
+    "stylus": "*"
   },
+  "devDependencies": {},
   "engines": {
     "node": "*"
   }
